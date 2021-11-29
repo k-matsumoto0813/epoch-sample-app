@@ -1,2 +1,2 @@
  epoch-sample-app
-test2
+test
